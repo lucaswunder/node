@@ -4,6 +4,7 @@
   "description": "desafio node 01",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "eslint": "^5.1.0",
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.13.0",
